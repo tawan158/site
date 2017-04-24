@@ -1,4 +1,30 @@
-.d1{
+td{
+	/*註解*/
+	/*padding: 30px 160px;*/
+/*	padding-top:10px;
+	padding-right:20px;
+	padding-bottom:30px;
+	padding-left:40px;*/
 	padding: 10px 20px 30px 40px;
-	background-color: #3D61C8;
+	/*border:solid 10px #1a3f70;*/
+	border-width:10px;
+	border-color: #000;
+	border-top-style: dotted;
+	border-left-style: double;
+
+}
+
+.d1{
+	width: 100px;
+	height: 100px;
+	background-color: #34701a;
+	margin: 20px;
+
+}
+
+#d2{
+	width: 500px;
+	height: 500px;
+	background-color: #af7de0;
+
 }
